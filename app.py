@@ -1,3 +1,5 @@
+
+%%writefile app.py
 import pandas as pd
 import folium
 import streamlit as st
